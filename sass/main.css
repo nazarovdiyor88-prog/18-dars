@@ -32,7 +32,6 @@
   align-items: center;
 }
 .wrapper .container .wrapper__box__forma {
-  border: 2px solid red;
   width: 900px;
   text-align: center;
 }
@@ -42,7 +41,6 @@
   margin-left: 20px;
   padding: 20px;
   width: 800px;
-  border: 2px solid gold;
 }
 .wrapper .container .wrapper__box__forma__boxone:nth-child(1) .wrapper__box__forma__boxone__input {
   margin-left: 10%;
@@ -97,11 +95,7 @@
 .wrapper .container .wrapper__box__forma__boxone:nth-child(12) {
   display: flex;
   flex-wrap: wrap;
-  border: 2px solid green;
   justify-content: left;
-}
-.wrapper .container .wrapper__box__forma__boxone:nth-child(12) .wrapper__box__forma__boxone__two {
-  border: 2px solid red;
 }
 .wrapper .container .wrapper__box__forma__boxone__title {
   color: white;
@@ -115,7 +109,6 @@
   gap: 100px;
 }
 .wrapper .container .wrapper__box__forma__boxone .wrapper__box__forma__boxone__box__one__two {
-  border: 2px solid red;
   text-align: left;
 }
 
@@ -140,7 +133,7 @@ label {
   height: 25px;
   color: rgb(5, 5, 5);
   font-family: "Times New Roman", Times, serif;
-  font-size: 16px;
-  font-weight: 300;
+  font-size: 18px;
+  font-weight: 400;
   margin-bottom: 25px;
 }/*# sourceMappingURL=main.css.map */
